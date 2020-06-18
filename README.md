@@ -5,4 +5,4 @@ In this project I have trained a CNN from scratch to predict human emotions in r
 I had built and trained the model on kaggle kernel so thanks for their support.
 -https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 ## Examples
-Examples are included in the jupyter notebook
+Examples are included in the 'main_code' jupyter notebook.
